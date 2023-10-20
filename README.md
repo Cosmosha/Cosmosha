@@ -18,7 +18,6 @@
 * 🎓 Proud Graduate of Microverse 🌍 <br>
 * 🚀 Passionate about Delivering Excellence Every Time 🚀 <br>
 * ✉️  You can contact me at [cosmoshagan@gmail.com](mailto:cosmoshagan@gmail.com)
-* 🚀  I'm currently working on [Pregnancy-planner App](http://pregnancy-planner-app.vercel.app/login)
 * 🤝  I'm open to collaborating on Php, Laravel, React JS, HTML5, CSS 3
 * ⚡  I'm secretly the future Elon Musk, but shh, don't tell anyone...
 
