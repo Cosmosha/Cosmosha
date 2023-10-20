@@ -11,12 +11,13 @@
 
 
 <br>
-<br>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cosmosha&label=Profile%20views&color=0e75b6&style=flat" alt="cosmosha" /> </p>
 
-<p align="left"> <a href="https://twitter.com/hagancosmos" target="blank"><img src="https://img.shields.io/twitter/follow/hagancosmos?logo=twitter&style=for-the-badge" alt="hagancosmos" /></a> </p>
+<a href="https://www.github.com/cosmosha" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/cosmosha?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/hagancosmos" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/hagancosmos?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a>
 
 
 - 🔭 I’m currently working on **Javascript APIs**
