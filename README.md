@@ -28,7 +28,8 @@ src="https://img.shields.io/twitter/follow/hagancosmos?logo=twitter&style=for-th
 
 Welcome to my coding universe! As a dedicated web developer, I'm here to craft digital experiences that not only meet but exceed expectations. I hold a special place in my heart for front-end magic ✨, and I'm driven by the power of pixels and code.<br> 
 With the Microverse seal of approval, I've honed my skills through a unique remote development school. I'm all about working hand-in-hand with fellow code enthusiasts from around the globe 🌎. Whether it's full-stack wizardry or lending a hand to make the web more beautiful, I'm your go-to collaborator. 
-My commitment to excellence ensures that I don't just meet deadlines, I surpass them. Let's embark on this coding journey together and create digital marvels! 💻✨ 
+My commitment to excellence ensures that I don't just meet deadlines, I surpass them. <br>
+Let's embark on this coding journey together and create digital marvels! 💻✨ 
 
 Connect with me, and let's build the future, one line of code at a time. 🚀💬"
 
